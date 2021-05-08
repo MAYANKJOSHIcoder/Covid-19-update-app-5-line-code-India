@@ -1,5 +1,5 @@
 import sys
-from covid_india import states
+from covid_india import states #pip install covid-india
 i = ('State name')
 while i != "quit":
     i =input('State Name:')
